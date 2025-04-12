@@ -134,7 +134,8 @@ Include relevant parts of the VS Code API (for extension devs).
 Why is the login test failing in `auth.test.js`, and how can I fix the validateCredentials function?
 
 
-## License
+
+## 🚀 License
 
 MIT License - feel free to use in your projects
 
