@@ -133,3 +133,15 @@ Include relevant parts of the VS Code API (for extension devs).
 #Files #Symbols #Test failures 
 Why is the login test failing in `auth.test.js`, and how can I fix the validateCredentials function?
 
+
+## License
+
+MIT License - feel free to use in your projects
+
+## Contact
+
+- Author: Padmaraj Nidagundi
+- Email: padmaraj.nidagundi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/padmarajn/
+- GitHub: https://github.com/padmarajnidagundi/Awesome-Copilot-Chat-Context/
+
