@@ -145,4 +145,5 @@ MIT License - feel free to use in your projects
 - Email: padmaraj.nidagundi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/padmarajn/
 - GitHub: https://github.com/padmarajnidagundi/Awesome-Copilot-Chat-Context/
+- Ref / https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context
 
