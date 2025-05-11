@@ -1,14 +1,8 @@
-Here’s an updated version of your **Awesome Copilot Chat Context 2025 Guide**, now including the **Slash Commands** section at the end in a consistent and professional format:
+**GitHub Copilot Chat Context 2025 Guide**
 
 ---
 
-# Awesome-Copilot-Chat-Context
-
-**Awesome Copilot Chat Context 2025 Guide**
-
----
-
-## 🧠 GitHub Copilot 2025 — Chat Contexts Guide
+## 🧠 GitHub Copilot Chat Context 2025 — Chat Contexts Guide
 
 Boost your productivity by providing **precise context** to GitHub Copilot Chat. This guide lists all available context types that developers and test engineers can use to supercharge AI assistance inside VS Code.
 
